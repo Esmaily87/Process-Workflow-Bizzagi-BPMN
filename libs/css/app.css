@@ -2,7 +2,7 @@
 :root {
   --primary-color: #5c079e;
   --primary-light: #7943a3;
-  --primary-lighter: #5d079ecb;
+  /*--primary-lighter: #5d079ecb;*/
   --primary-dark: #431a63;
   --primary-darker: #2e1145;
   --text-on-primary: var(--primary-lighter)fff;
